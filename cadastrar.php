@@ -29,9 +29,9 @@
                                     </div>
                                 </div>                                
                             </div>
-                            <div class="form-group mb-3">
-                                <label class="label-control">Email:</label>
-                                <input class="form-control" type="email" placeholder="example@email.com.br">
+                            <div class="form-floating mb-3">
+                                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                                <label for="floatingInput">Email address</label>
                             </div> 
                             <div class="form-group mb-3">
                                 <div class="row">
